@@ -64,7 +64,7 @@ Whether you need:
 - Data pipeline or dashboard,
 - Or just a tech consultation...
 
-👉 **I’m open to collaborations, freelance projects, and full-time opportunities.**
+👉 **Open to collaborations, freelance projects, and full-time opportunities.**
 
 📧 Reach out: [connect@scionic.tech]  
 
