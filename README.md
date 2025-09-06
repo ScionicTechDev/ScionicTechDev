@@ -5,9 +5,9 @@
 
 ---
 
-## 🎯 What I Do
+## 🎯 What We Do
 
-I design and build intelligent systems that turn raw data into **actionable insights** and **automated decisions**. My work spans:
+Specialized in designing and building intelligent systems that turn raw data into **actionable insights** and **automated decisions**. My work spans:
 
 - 📊 **Data Science & Analytics**  
   End-to-end pipelines: cleaning, EDA, modeling, visualization (Python, Pandas, Plotly, Seaborn).
